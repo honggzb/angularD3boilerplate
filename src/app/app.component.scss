@@ -1,0 +1,28 @@
+::ng-deep { 
+    nav {
+        display: flex;
+        justify-content: center;
+    }
+    
+    ul {
+        list-style: none;
+        text-align: center;
+        background: #e9e5e5;
+        padding: 5px;
+    }
+    
+    ul li {
+        float: left;
+        text-align: center;
+        padding: 5px 10px;
+        font-size: large;
+        border-right: 2px solid #d5d2d2;
+    }
+    
+    ul li:last-child {
+        border-right: 0 solid #d5d2d2;
+    }
+    
+    ul li a { text-decoration: none; }
+    ul li a:hover { color: red; }
+}
