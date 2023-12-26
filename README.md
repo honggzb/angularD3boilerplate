@@ -1,4 +1,4 @@
-# AngularD3boilplater
+# Angular+ D3 boilplater
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 17.0.7.
 
